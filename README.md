@@ -1,4 +1,4 @@
-# MedSAM2-Segment Anything In Medical Images and Videos: Benchmark and Deployment
+# HDSAM2-Segment Anything In Medical Images and Videos: Benchmark and Deployment
 
 This is the official repository for benchmarking and fine-tuning SAM2 on medical images. Welcome to join our [mailing list](https://forms.gle/hk4Efp6uWnhjUHFP6) to get updates.
 
